@@ -1,6 +1,4 @@
-# SQLite_database
-
-## SQLite Database Operations
+# SQLite Database Operations
 
 This project showcases practical experience in working with the SQLite database. Below are the key stages of the process:
 
